@@ -1,4 +1,5 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+![MasterHead](https://kinsta.com/wp-content/uploads/2017/10/add-code-wordpress-header-footer-7.png)
+
 <h1 align="center">Hi 👋, I'm Aditya Sriram</h1>
 <h3 align="center">A passionate Programmer and Front-End Web Developer</h3>
 
