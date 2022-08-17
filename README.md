@@ -1,11 +1,11 @@
-![MasterHead](https://kinsta.com/wp-content/uploads/2017/10/add-code-wordpress-header-footer-7.png)
-
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 <h1 align="center">Hi 👋, I'm Aditya Sriram</h1>
 <h3 align="center">A passionate Programmer and Front-End Web Developer</h3>
 
 <img align="right" alt="Coding" width="275" height="200" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adhi1410&label=Profile%20views&color=0e75b6&style=flat" alt="adhi1410" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adhi1410&label=Profile%20views&color=0e75b6&style=flat" alt="adhi1410" /> 
+ <a href="https://github.com/Adhi1410?tab=followers"><img src="https://img.shields.io/github/followers/Adhi1410?label=Followers&style=social" alt="GitHub Badge"></a> </p> 
 
 - 📝 BE Computer Science student **at PSG College of Technology**
 
