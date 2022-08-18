@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="mailto:aditya.sriram1014@gmail.com" target="_blank"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="mail" height="25" width="40" /> </a>
-<a href="https://linkedin.com/in/aditya-sriram-1bb019207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-sriram-1bb019207" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aditya-sriram-adi14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-sriram-1bb019207" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16333433" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16333433" height="30" width="40" /></a>
 <a href="https://instagram.com/aditya.sriram1014" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aditya.sriram1014" height="30" width="40" /></a>
 </p>
