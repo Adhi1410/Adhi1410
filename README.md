@@ -58,7 +58,7 @@
 ---
 
 
-<h3> <details> <summary> GitHub Stats 	:gear: </summary> <br> <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adhi1410&show_icons=true&locale=en&layout=compact" alt="adhi1410" /></p>
+<h3> <details> <summary> GitHub Stats 	:gear: </summary> <br> <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Adhi1410&show_icons=true&locale=en&layout=compact" alt="adhi1410" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=adhi1410&show_icons=true&locale=en" alt="adhi1410" /></p>
 
