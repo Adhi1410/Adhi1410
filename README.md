@@ -44,13 +44,3 @@ My work focuses on building models that are **deployable under real-world constr
 **Languages:** Python, Java, C++, C
 **Systems & Cloud:** AWS, Microsoft Azure, Distributed Systems  
 **Tools & Frameworks:** LangChain, Docker, Git  
-
----
-
-<details>
-  <summary><b>📈 GitHub Stats</b></summary>
-  <br>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Adhi1410&layout=compact&theme=transparent" />
-  </p>
-</details>
