@@ -42,5 +42,5 @@ My work focuses on building models that are **deployable under real-world constr
 
 **ML/AI:** PyTorch, TensorFlow, Hugging Face Transformers, OpenCV, Scikit-learn  
 **Languages:** Python, Java, C++, C
-**Systems & Cloud:** AWS, Microsoft Azure, Distributed Systems  
+<br>**Systems & Cloud:** AWS, Microsoft Azure, Distributed Systems  
 **Tools & Frameworks:** LangChain, Docker, Git  
